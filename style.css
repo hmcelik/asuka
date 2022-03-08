@@ -60,7 +60,7 @@ css list:
 @import url('https://fonts.googleapis.com/css?family=Montserrat:300,300i,400,400i,500,500i,600,600i,700,800');
 
 body{
-	background: #062489;
+	background: #530305;
 	font-family: 'Montserrat', sans-serif;
 	font-size: 14px;
 	color: #cbe5ff;
@@ -162,7 +162,7 @@ a.single-about,
 
 .header-area.header-absolate.skrollable.skrollable-after {
   padding-top: 15px;
-  background: #000D47;
+  background: #470000;
   padding-bottom: 15px;
 }
 
@@ -189,7 +189,7 @@ a.single-about,
   left: 0;
   top: 70px;
   z-index: 999;
-  background: #001763;
+  background: #630000;
   border-radius: 5px;
   visibility: hidden;;
   opacity: 1;
@@ -204,7 +204,7 @@ a.single-about,
 }
 
 .main-menu li ul li a:hover {
-  background: #062489;
+  background: #890606;
   padding-left: 15px;
 }
 
@@ -350,7 +350,7 @@ a.single-about {
   color: #cbe5ff;
   display: block;
   padding: 50px 25px;
-  background: #1938a2;
+  background: #410d0d;
   text-align: center;
   -webkit-transform: translateY(0px);
   -ms-transform: translateY(0px);
@@ -358,7 +358,7 @@ a.single-about {
 }
 
 a.single-about:hover {
-  background: #122e91;
+  background: #350505;
   -webkit-transform: translateY(-5px);
   -ms-transform: translateY(-5px);
   transform: translateY(-5px);
@@ -369,7 +369,7 @@ ico area css
 ======================*/
 
 .ico-area {
-  background: #031b69;
+  background: #690303;
 }
 
 
@@ -415,7 +415,7 @@ ico area css
   height: 60px;
   border-radius: 50px;
   margin-top: 50px;
-  background: #004cff;
+  background: #ff0000;
   overflow: unset;
 }
 
@@ -427,7 +427,7 @@ ico area css
   height: 0;
   border-left: 10px solid transparent;
   border-right: 10px solid transparent;
-  border-bottom: 20px solid #004cff;
+  border-bottom: 20px solid #ff0000;
 }
 .progress-bar.progress-bar-success {
   background: -webkit-linear-gradient(left,#f6d365,#fda085);
@@ -564,7 +564,7 @@ roadmap area css
 ======================*/
 
 .roadmap-area{
-	background: #031b69;
+	background: #690303;
   overflow: hidden;
 }
 
@@ -597,7 +597,7 @@ roadmap area css
   content: "";
   height: 66.5%;
   width: 1px;
-  background: #004cff;
+  background: #ff0000;
   bottom: 10.5%;
   left: 1%;
   z-index: -1;
@@ -608,7 +608,7 @@ roadmap area css
   content: "";
   height: 1px;
   width: 120%;
-  background: #004cff;
+  background: #ff0000;
   top: 23%;
   right: -21%;
   z-index: -1;
@@ -627,7 +627,7 @@ roadmap area css
   content: "";
   height: 74.5%;
   width: 1px;
-  background: #004cff;
+  background: #ff0000;
   bottom: 0;
   left: 12.5%;
   z-index: -1;
@@ -638,7 +638,7 @@ roadmap area css
   content: "";
   height: 1px;
   width: 97.5%;
-  background: #004cff;
+  background: #ff0000;
   bottom: 0;
   right: -10%;
   z-index: -1;
@@ -709,7 +709,7 @@ team area css
 }
 
 .single-team-social li a.ico-1 {
-  background: #0077b5;
+  background: #b52400;
 }
 
 .single-team-social li a.ico-2 {
@@ -717,7 +717,7 @@ team area css
 }
 
 .single-team-social li a.ico-3 {
-  background: #55acee;
+  background: #ee5555;
 }
 
 /*===================
@@ -753,7 +753,7 @@ faq area css
 
 .single-faq {
   padding: 35px 20px;
-  background: #143dc7;
+  background: #c71414;
 }
 
 .readmore-btn {
@@ -940,7 +940,7 @@ apps area css
 .gradient-btn.apps-btn.apps-btn-2{
   margin-left: 10px;
   background: transparent;
-  border: 2px solid #1452e2;
+  border: 2px solid #e21414;
 }
 
 .apps-area p{
@@ -959,7 +959,7 @@ community area css
 .community-area {
   position: relative;
   z-index: 2;
-  background: #031b69;
+  background: #690303;
   overflow:hidden;
 }
 
@@ -1084,7 +1084,7 @@ footer area css
 }
 
 .single-footer .footer-form{
-  background: #031b69;
+  background: #690303;
   border-radius: 5px;
 }
 
@@ -1126,7 +1126,7 @@ mobile menu css
 }
 
 .slicknav_nav {
-  background: #000D47;
+  background: #470000;
   width: 200px;
   position: absolute;
   left: auto;
@@ -1150,13 +1150,13 @@ mobile menu css
   -webkit-border-radius: 6px;
   -moz-border-radius: 6px;
   border-radius: 6px;
-  background: #004AFF;
+  background: #ff0000;
   color: #fff;
   padding-left: 25px;
 }
 
 .slicknav_nav .slicknav_row:hover {
-  background: #004AFF;
+  background: #ff0000;
 }
 .slicknav_nav .slicknav_item a, .slicknav_nav .slicknav_parent-link a {
   text-transform: capitalize;
@@ -1177,16 +1177,16 @@ welcome area v2 css
 }
 
 .v2.welcome-progress {
-  background: #001763;
+  background: #630000;
   padding: 50px 30px;
   border-radius: 10px;
-  box-shadow: 0 0 45px #0324af;
+  box-shadow: 0 0 45px #af0303;
 }
 
 .progress.v2 {
   margin: 10px 0;
   height: 30px;
-  background: #062489;
+  background: #890606;
 }
 
 .v2.welcome-progress a.gradient-btn {
@@ -1206,7 +1206,7 @@ welcome area v2 css
   content: "";
   height: 50px;
   width: 50px;
-  background: -webkit-linear-gradient(top,#00bbf9,#005eea);
+  background: -webkit-linear-gradient(top,#f93200,#ea0000);
   right: 0;
   border-radius: 50px;
 }
@@ -1737,7 +1737,7 @@ a.gradient-btn:after {
   left: 0;
   top: 0;
   content: "";
-  background: -webkit-linear-gradient(right,#072487,#fa768d,#fe998b);
+  background: -webkit-linear-gradient(right,#870707,#fa768d,#fe998b);
   height: 100%;
   width: 100%;
   z-index: -1;
@@ -1761,6 +1761,7 @@ a.gradient-btn:hover:after{
 .welcome-img img{
   height: 100%;
   width: 100%;
+  border-radius: 10%;
 }
 
 ::-webkit-input-placeholder{color:#fff}
