@@ -1763,6 +1763,7 @@ a.gradient-btn:hover:after{
   width: 100%;
   border-radius: 10%;
 }
+p{text-shadow: 1px #000;background-color: #000; padding: 5px; border: solid 2px rgb(139, 9, 9); border-radius: 5%;}
 
 ::-webkit-input-placeholder{color:#fff}
 :-ms-input-placeholder{color:#fff}
